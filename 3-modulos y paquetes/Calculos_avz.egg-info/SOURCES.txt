@@ -1,0 +1,8 @@
+setup.py
+Calculos_avz.egg-info/PKG-INFO
+Calculos_avz.egg-info/SOURCES.txt
+Calculos_avz.egg-info/dependency_links.txt
+Calculos_avz.egg-info/top_level.txt
+calculos/__init__.py
+calculos/modulo_operaciones.py
+calculos/sub_calculos/calculos_avanzados.py
